@@ -25,7 +25,6 @@ function listShowingTrue() {
   return knex("movies as m")
     .join("movies_theaters as mt", "m.movie_id", "mt.movie_id")
     .select("m.*")
-    // .select("m.movie_id", "m.title")
     .groupBy("m.movie_id")
     .where({ is_showing: true });
 }
