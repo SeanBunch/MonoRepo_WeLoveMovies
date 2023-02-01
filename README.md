@@ -21,7 +21,9 @@ User can find a movie description and location of theaters where movie is being 
 
 ## Movie Reviews and User Ratings
 
-Users can scroll to read reviews and provide up and down votes on each review by clicking the small blue arrows pointing either up or down.
+Users can scroll to read reviews and provide up and down votes on each review by clicking the small blue arrows pointing either up or down. 
+
+**In the code I developed CRUD operations that delete reviews, but I have disabled / hiding the button so that users cannot change the database at this time. However, the button is located in the Reveiws.js component.
 
 ![movieRatingReview](/readme_images/welovemovies_reviewWithRating.PNG)
 
