@@ -9,7 +9,7 @@ If the page recieves to many hits to my tiny database server you may recieve a t
 
 Navigating to either the All Movies tab or the All Theaters Tab in the upper left hand corner will usually speed up the processes. Users can click on the WeLoveMovies text in the upper left-hand corner to navigate back to the home page.   
 
-I regularly check on the database and clear connections. Sorry if you got an error my sites are hosted and small free services provided by ElephantSQL, Render and sometimes Vercel. However they are successully deployed and under the right conditions work well.
+I regularly check on the database and clear connections. Sorry if you got an error. The sites are hosted on small free services provided by ElephantSQL, Render and sometimes Vercel. However they are successully deployed and under the right conditions work well.
 
 ---
 
