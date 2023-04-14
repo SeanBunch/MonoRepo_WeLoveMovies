@@ -1,7 +1,7 @@
 # WeLoveMovies
 backend / frontend, Render deployed, React, Node, Express, RESTful API, PostgreSQL, Knex
 
-## Please note: The site will have slow load times!
+## Please note: The site will have slow load times.
 
 The site is deployed for free on Render with database support hosted on ElephantSQL, so load times can be slow. 
 
